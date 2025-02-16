@@ -1,1 +1,2 @@
-# shoe_store
+# shoe_store telegram bot
+# @shoestorebot_bot
